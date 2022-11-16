@@ -1,7 +1,15 @@
-### Hi there 👋
+### Hi welcome!
+My name is **Eduardo Teixeira** and I´m a Software Engineering Master's student at [University of Minho](https://www.uminho.pt/PT) . Currently working on my *Dissertation on Deep Learning approaches for landmarks detection on knee medical images* for BiRD LAB a research group from the University of Minho. Learning actively about AI, Deep Learning, Blockcahin, Solidity and NFT´s technology.
 
+You can reach me by:
+              
+Institucional e-mail: pg47166@alunos.di.uminho.pt\
+LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/eduardo-teixeira-16b807196)
 <!--
 **eduardojst10/eduardojst10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+ 
+
 
 Here are some ideas to get you started:
 
