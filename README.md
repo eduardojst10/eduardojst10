@@ -1,4 +1,4 @@
-### Hi welcome!
+### Hi welcome! 👋
 My name is **Eduardo Teixeira** and I´m a Software Engineering Master's student at [University of Minho](https://www.uminho.pt/PT) . Currently working on my Dissertation: *Deep Learning approaches for landmarks detection on knee medical images* for BiRD LAB a research group from the University of Minho. Learning actively about AI, Machine Learning, Deep Learning, Blockchain, Solidity and NFT´s technology.
 
 ---
