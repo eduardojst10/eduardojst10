@@ -1,10 +1,27 @@
 ### Hi welcome!
 My name is **Eduardo Teixeira** and I´m a Software Engineering Master's student at [University of Minho](https://www.uminho.pt/PT) . Currently working on my Dissertation: *Deep Learning approaches for landmarks detection on knee medical images* for BiRD LAB a research group from the University of Minho. Learning actively about AI, Machine Learning, Deep Learning, Blockchain, Solidity and NFT´s technology.
 
+---
+- **Programming/Scripting Languages worked with:** Haskell, C, C++, Java, Python, JavaScript
+- **Machine Learning:** Tensorflow, Pytorch, Pandas, scikit-learn, matplotlib
+- **Frontend Development:** React.js, Vue.js
+- **Backend Development:** Node.js, Express
+- **Databases:** MongoDB and MySQL
+- **Version Control:** Git / GitHub
+- **DevOps Tools:** GCloud, Docker, Kubernetes
+---
+
+👨🏻‍💻 Current Learning Goals
+Master DevOps
+Distributed ML pipelines
+
+
+
 You can reach me by:
               
 Institucional e-mail: pg47166@alunos.di.uminho.pt\
-LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/eduardo-teixeira-16b807196)
+LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/eduardo-teixeira-16b807196) \
+Personal Website: https://eduardojst10.github.io/eduardo/#/
 <!--
 **eduardojst10/eduardojst10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -17,7 +34,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <h3 align="left">Languages</h3>
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />       
@@ -49,4 +66,5 @@ Here are some ideas to get you started:
 <!--<p align="left">
 <a href="https://twitter.com/eduardojst10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eduardojst10" height="30" width="40" /></a>
 <a href="https://instagram.com/eduardojst10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eduardojst10" height="30" width="40" /></a>
-</p>-->
+</p>
+-->
