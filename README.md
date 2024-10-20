@@ -21,7 +21,7 @@ You can reach me by:
               
 Institucional e-mail: pg47166@alunos.di.uminho.pt\
 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/eduardo-teixeira-16b807196) \
-Personal Website: https://eduardojst10.github.io/eduardo/#/
+Personal Website: https://eduardojst10.github.io/eduardo/
 <!--
 **eduardojst10/eduardojst10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
